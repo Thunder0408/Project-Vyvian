@@ -1,0 +1,13 @@
+node_modules/
+dist/
+coverage/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+.vercel
+
+# personal / machine-local Claude Code files
+CLAUDE.local.md
+.claude/settings.local.json
